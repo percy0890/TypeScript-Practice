@@ -29,6 +29,8 @@ Allow the consumer of this class to pass the initial number of likes when creati
 Define this class in a separate module and use it in the main module. Simulate the scenario where the user clicks the like component. Display the total number of likes and whether the button is in the selected or unselected state on the console.
 
 
+# Topic Covered:
+
 ## What is TypeScript?
 ## Declaring Variables (let, var) 
 ## Types (number, boolean, string, any, number[], any[], enum)
