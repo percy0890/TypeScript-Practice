@@ -31,16 +31,16 @@ Define this class in a separate module and use it in the main module. Simulate t
 
 # Topic Covered:
 
-## What is TypeScript?
-## Declaring Variables (let, var) 
-## Types (number, boolean, string, any, number[], any[], enum)
-## Type Assertions (explicitly tell typescript compiler that any variable is of particular type)
-## Arrow Functions
-## Interfaces
-## Classes (combining all related thing : cohesion rule)
-## Objects (instance, allocating memory to custom type)
-## Constructors (initializatoin)
-## Access Modifiers (public, private, protective)
-## Access Modifiers in Constructor Parameter
-## Properties (getter, setter)
-## Modules (in typeScript 'importing', 'exporting' typeScript file)
+#### What is TypeScript?
+#### Declaring Variables (let, var) 
+#### Types (number, boolean, string, any, number[], any[], enum)
+#### Type Assertions (explicitly tell typescript compiler that any variable is of particular type)
+#### Arrow Functions
+#### Interfaces
+#### Classes (combining all related thing : cohesion rule)
+#### Objects (instance, allocating memory to custom type)
+#### Constructors (initializatoin)
+#### Access Modifiers (public, private, protective)
+#### Access Modifiers in Constructor Parameter
+#### Properties (getter, setter)
+#### Modules (in typeScript 'importing', 'exporting' typeScript file)
