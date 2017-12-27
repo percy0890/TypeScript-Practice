@@ -44,3 +44,8 @@ Define this class in a separate module and use it in the main module. Simulate t
 #### Access Modifiers in Constructor Parameter
 #### Properties (getter, setter)
 #### Modules (in typeScript 'importing', 'exporting' typeScript file)
+
+
+# Command used:
+
+tsc main.ts --target ES5 && node main.js
