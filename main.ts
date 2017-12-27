@@ -1,8 +1,5 @@
-function log(){
-    for(let i=0;i<6;i++){
-        console.log(i)
-    }
-  console.log('finally:', i);
-}
+import { LikeComponent } from './like.Component';
 
-log();
+let getData = new LikeComponent(true, 10);
+getData.getDate();
+console.log(getData.count, getData.isSelected);
