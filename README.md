@@ -27,3 +27,18 @@ For the purpose of this exercise, forget about the HTML. Your focus should be pu
 Allow the consumer of this class to pass the initial number of likes when creating an instance of this class. 
 
 Define this class in a separate module and use it in the main module. Simulate the scenario where the user clicks the like component. Display the total number of likes and whether the button is in the selected or unselected state on the console.
+
+
+## What is TypeScript?
+## Declaring Variables (let, var) 
+## Types (number, boolean, string, any, number[], any[], enum)
+## Type Assertions (explicitly tell typescript compiler that any variable is of particular type)
+## Arrow Functions
+## Interfaces
+## Classes (combining all related thing : cohesion rule)
+## Objects (instance, allocating memory to custom type)
+## Constructors (initializatoin)
+## Access Modifiers (public, private, protective)
+## Access Modifiers in Constructor Parameter
+## Properties (getter, setter)
+## Modules (in typeScript 'importing', 'exporting' typeScript file)
